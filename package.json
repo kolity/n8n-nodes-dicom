@@ -38,7 +38,9 @@
   ],
   "n8n": {
     "n8nNodesApiVersion": 1,
-    "credentials": [],
+    "credentials": [
+      "dist/credentials/DicomApi.credentials.js"
+    ],
     "nodes": [
       "dist/nodes/Dicom/DicomNode.node.js"
     ]
