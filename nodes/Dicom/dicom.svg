@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="gradientBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3498db" />
+      <stop offset="100%" stop-color="#2980b9" />
+    </linearGradient>
+  </defs>
+  <rect width="24" height="24" rx="4" fill="url(#gradientBlue)" />
+  <text x="2.5" y="16" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="7">DICOM</text>
+  <path d="M5 5 L19 5 L19 19 L5 19 Z" fill="none" stroke="white" stroke-width="1" />
+  <rect x="7" y="7" width="4" height="4" fill="white" opacity="0.9" />
+  <rect x="13" y="7" width="4" height="4" fill="white" opacity="0.6" />
+  <rect x="7" y="13" width="4" height="4" fill="white" opacity="0.3" />
+  <rect x="13" y="13" width="4" height="4" fill="white" opacity="0.1" />
+</svg>
